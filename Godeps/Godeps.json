@@ -1,0 +1,7 @@
+{
+        "Deps": [
+                {
+                        "ImportPath": "github.com/cloudfoundry/yagnats",
+                },
+        ]
+}
